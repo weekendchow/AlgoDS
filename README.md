@@ -1,7 +1,7 @@
 # coding-concepts
 Simple explanation of coding concepts along with some practice questions.
 
-##DataStructure
+## DataStructure
 - Array
 - Linked List
 - String
@@ -17,20 +17,20 @@ Simple explanation of coding concepts along with some practice questions.
 - Sets
 - Maps
 
-##Sorting
+## Sorting
 - BubbleSort
 - QuickSort
 - MergeSort
 - BucketSort
 - RadixSort
 
-##Searching
+## Searching
 - [Binary Search](https://leetcode.com/articles/introduction-to-binary-search/)
 - Depth First Search
 - Breadth First Search
 
 
-##Algorithm
+## Algorithm
 - Greedy
 - Bitmasks
 - Backtracking
@@ -38,18 +38,18 @@ Simple explanation of coding concepts along with some practice questions.
 - Dynamic Programming
 
 
-##Fundamental
+## Fundamental
 - Big-O
 - Math & Stats
 
 
-##Some Links
+## Some Links
 [Quick refresh](https://github.com/kdn251/interviews#algorithms)
 [10 common data structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 [Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
 [Cheat sheets](https://github.com/aspittel/coding-cheat-sheets)
 
-##Directory Tree
+## Directory Tree
 ```
 .
 ├── Data Structure

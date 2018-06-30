@@ -1,8 +1,8 @@
-#Binary Search
-##What & How?
+# Binary Search
+## What & How?
 
-##Templates
+## Templates
 
-##Time and Space Complexity
+## Time and Space Complexity
 
-##Practice
+## Practice
