@@ -25,7 +25,7 @@ Simple explanation of coding concepts along with some practice questions.
 - RadixSort
 
 ## Searching
-- [Binary Search](https://leetcode.com/articles/introduction-to-binary-search/)
+- [Binary Search](https://github.com/weekendchow/coding-concepts/blob/master/Searching/BinarySearch.md)
 - Depth First Search
 - Breadth First Search
 
@@ -85,4 +85,5 @@ Simple explanation of coding concepts along with some practice questions.
 │   ├── DynamicProgramming
 ├── Fundamental
 │   ├── Big-O
+│   ├── Math & Stats
 ```
