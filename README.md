@@ -39,15 +39,15 @@ Simple explanation of coding concepts along with some practice questions.
 
 
 ## Fundamental
-- Big-O
+- [Big-O](https://github.com/weekendchow/coding-concepts/blob/master/Fundamental/Big-O.md)
 - Math & Stats
 
 
 ## Some Links
-[Quick refresh](https://github.com/kdn251/interviews#algorithms)
-[10 common data structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
-[Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
-[Cheat sheets](https://github.com/aspittel/coding-cheat-sheets)
+- [Quick refresh](https://github.com/kdn251/interviews#algorithms)
+- [10 common data structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+- [Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
+- [Cheat sheets](https://github.com/aspittel/coding-cheat-sheets)
 
 ## Directory Tree
 ```
