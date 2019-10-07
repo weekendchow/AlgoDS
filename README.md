@@ -1,4 +1,4 @@
-# coding-concepts
+# Algorithm & Data Structure Learning Notes
 Simple explanation of coding concepts along with some practice questions.
 
 ## DataStructure
