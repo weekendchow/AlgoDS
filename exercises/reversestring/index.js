@@ -6,13 +6,13 @@
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
 
-//#Solution 1
+//############Solution 1
 // function reverse(str) {
 //     //js function .reverse() only reverse array!!!
 //     return str.split('').reverse().join('')
 // }
 
-//#Solution 2
+//############Solution 2
 // function reverse(str) {
 //     let revStr = ''
 //     for(let i of str) {
@@ -21,7 +21,7 @@
 //     return revStr
 // }
 
-//#Solution 3
+//#############Solution 3
 function reverse(str) {
     return str.split('').reduce((revStr, i) => i + revStr)
 }
